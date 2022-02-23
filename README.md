@@ -1,16 +1,9 @@
-# yourlibaas_task
+# Image-Fetching
+This app was the part of the task for an internship application at YourLibaas.com
+### Task: 
+Fetching the images from free API unsplash.com and displaying the images in a infinite scrolling view. Initially, 10 images would be fetched and displayed. On each subsequent scroll, more 10 images to be displayed. 
 
-A new Flutter project.
+- Frontend: Flutter
+- API: https://api.unsplash.com/photos?client_id=AUTH_TOKEN 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App:
