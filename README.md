@@ -7,3 +7,6 @@ Fetching the images from free API unsplash.com and displaying the images in a in
 - API: https://api.unsplash.com/photos?client_id=AUTH_TOKEN 
 
 ### App:
+
+https://user-images.githubusercontent.com/77896154/155451995-296900ac-4ac1-4548-a67b-9804d6d80d52.mp4
+
